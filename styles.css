@@ -1,0 +1,13 @@
+@import url(header.css);
+@import url(welcome.css);
+@import url(how-it-works.css);
+@import url(features.css);
+body{
+  margin: 0;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  
+}

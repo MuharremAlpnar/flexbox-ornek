@@ -1,0 +1,23 @@
+#features{
+  margin-top: 20px;
+  display: flex;
+  padding: 0;
+  flex-wrap: wrap;
+ 
+}
+.features-resim{
+  background-image: url(https://imgs.alem.com.tr/Documents/Alem_Dergi/images/2022/04/13/avatar-2-filmi-hakkinda-b-920.jpg);
+  height: 400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+}
+#features div{
+  flex: 1;
+}
+.features-yazi{
+  background-color: aqua;
+}
+
+

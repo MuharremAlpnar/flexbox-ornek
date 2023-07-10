@@ -1,0 +1,13 @@
+.welcome{
+  background-image: url(1.webp);
+  background-repeat: no-repeat;
+  background-size:cover ;
+  height: 700px;
+  background-position: center;
+}
+.welcome p{
+  margin-top: 20px;
+  margin-left: 30px;
+  font-size: 25px;
+  font-weight: bolder;
+}
